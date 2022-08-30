@@ -19,10 +19,12 @@ B.Windows user needs to check for all the commands.
    A. Download the code or clone the repository.
    
    B. Open the terminal & change the directory- command is as follows
+   
    **cd quizapp-main (OR) cd <downloaded_directory_name>**
    
    
    C. Install virtual environment- command is as follows
+      
       **pip3 install virtualenv**
    
    D. Create Virtual Environment- command is as follows
