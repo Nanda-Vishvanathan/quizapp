@@ -11,7 +11,7 @@
    
    B. Change the directory: cd StubbenEdge
    
-   C. install virtual environment
+   C. install virtual environment: pip install virtualenv
    
    D. Create Virtual Environment
    
