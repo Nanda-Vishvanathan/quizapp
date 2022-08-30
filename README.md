@@ -18,7 +18,8 @@ B.Windows user needs to check for all the commands.
 
    A. Download the code or clone the repository.
    
-   B. Open the terminal & change the directory: cd quizapp OR cd quizapp-main or the cd <downloaded directory name>
+   B. Open the terminal & change the directory: cd quizapp OR cd quizapp-main OR 
+   cd <downloaded directory name>
    
    C. Install virtual environment: 
       Commands: pip3 install virtualenv
