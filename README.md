@@ -24,6 +24,7 @@ B.Windows user needs to check for all the commands.
       Commands: pip3 install virtualenv
    
    D. Create Virtual Environment: python3 -m venv <name_of_virtualenv>
+      replace the <name_of_virtualenv> with relevant name.
    
    E. Activate Virtual Environment - source <name_of_virtualenv>/bin/activate
    
