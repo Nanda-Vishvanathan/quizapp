@@ -9,7 +9,7 @@
 
    A. Download the code or clone the repository.
    
-   B. Change the directory: cd StubbenEdge
+   B. Open the terminal & change the directory: cd quizapp
    
    C. install virtual environment: 
       Commands: pip install virtualenv
