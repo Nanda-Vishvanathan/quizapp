@@ -6,6 +6,7 @@
           Programming Language: Python
           Front-End: Bootstrap
 3. To start the application in your local:
+
    A. Download the code or clone the repository.
    B. Change the directory: cd StubbenEdge
    C. install virtual environment
