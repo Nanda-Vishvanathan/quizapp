@@ -1,18 +1,27 @@
 # quizapp 
 
+Important Note: 
+
+A.This project has been developed, executed and tested in Mac OS.
+
+B.Windows user needs to check for all the commands.
+
 1. Application: This is an application that generates random question to user to test the knowledge of capitals of nations.
 2. Technical Specification:
           Framework: Flask
           Programming Language: Python
           Front-End: Bootstrap
+          
+
+
 3. To start the application in your local:
 
    A. Download the code or clone the repository.
    
-   B. Open the terminal & change the directory: cd quizapp
+   B. Open the terminal & change the directory: cd quizapp OR cd quizapp-main or the cd <downloaded directory name>
    
-   C. install virtual environment: 
-      Commands: pip install virtualenv
+   C. Install virtual environment: 
+      Commands: pip3 install virtualenv
    
    D. Create Virtual Environment: python3 -m venv <name_of_virtualenv>
    
