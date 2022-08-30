@@ -18,17 +18,22 @@ B.Windows user needs to check for all the commands.
 
    A. Download the code or clone the repository.
    
-   B. Open the terminal & change the directory: cd quizapp OR cd quizapp-main OR 
-   cd <downloaded directory name>
+   B. Open the terminal & change the directory:
+   
+   cd quizapp OR cd quizapp-main OR cd <downloaded directory name>
    
    C. Install virtual environment: 
       Commands: pip3 install virtualenv
    
-   D. Create Virtual Environment: python3 -m venv <name_of_virtualenv>
+   D. Create Virtual Environment: 
+   
+   Commands: python3 -m venv <name_of_virtualenv>
       
       replace the <name_of_virtualenv> with relevant name.
    
-   E. Activate Virtual Environment - source <name_of_virtualenv>/bin/activate
+   E. Activate Virtual Environment: Command:
+   
+   source <name_of_virtualenv>/bin/activate
    
    F. Please install the packages in requirements.txt: pip install -r requirements.txt
    
