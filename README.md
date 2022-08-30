@@ -20,14 +20,18 @@ B.Windows user needs to check for all the commands.
    
    B. Open the terminal & change the directory:
    
-   cd quizapp OR cd quizapp-main OR cd <downloaded directory name>
+   cd quizapp 
+   OR 
+   cd quizapp-main
+   OR 
+   cd <downloaded directory name>
    
    C. Install virtual environment: 
-      Commands: pip3 install virtualenv
+      pip3 install virtualenv
    
    D. Create Virtual Environment: 
    
-   Commands: python3 -m venv <name_of_virtualenv>
+   python3 -m venv <name_of_virtualenv>
       
       replace the <name_of_virtualenv> with relevant name.
    
