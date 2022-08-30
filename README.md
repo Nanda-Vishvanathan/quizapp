@@ -11,11 +11,12 @@
    
    B. Change the directory: cd StubbenEdge
    
-   C. install virtual environment: pip install virtualenv
+   C. install virtual environment: 
+      Commands: pip install virtualenv
    
-   D. Create Virtual Environment
+   D. Create Virtual Environment: python3 -m venv <name_of_virtualenv>
    
-   E. Activate Virtual Environment - source seenv
+   E. Activate Virtual Environment - source <name_of_virtualenv>/bin/activate
    
    F. Please install the packages in requirements.txt: pip install -r requirements.txt
    
