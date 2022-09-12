@@ -4,7 +4,7 @@ from logic import *
 def create_app():
     "Initialize the app with a secret key"
     app = Flask(__name__)
-    app.secret_key = "STUBBENEDGE" #If production/staging, this shall be changed.
+    app.secret_key = "SE" #If production/staging, this shall be changed.
     return app
 
 app = create_app() #Method invocation to initialize the app
